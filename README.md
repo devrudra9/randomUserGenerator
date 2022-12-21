@@ -1,1 +1,1 @@
-Beginner Frontend project to test API. 
+Beginner Frontend project to test use of APIs. 
