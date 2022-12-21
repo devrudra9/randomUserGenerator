@@ -1,1 +1,1 @@
-https://devrudra9.github.io/randomUserGenerator/
+Beginner Frontend project to test API. 
